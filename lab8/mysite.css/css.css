@@ -1,0 +1,10 @@
+a {
+    color:red;
+    text-decoration: none;
+}
+p{
+    color: blue;
+}
+li{
+   display: inline; 
+}
