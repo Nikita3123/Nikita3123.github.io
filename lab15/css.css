@@ -1,16 +1,10 @@
 body{
 background-image: url(img/1234567105.jpg);
 }
-.container shadow{
-    background-image: BlueViolet;
-}
 .card img{
     height: 140px;
     width: 220px;
 }
 .jumbotron{
     background-color: CornflowerBlue;
-}
-.footer{
-    background-color: BlueViolet;
 }
